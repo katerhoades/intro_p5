@@ -32,6 +32,17 @@
 
 ![Intro p5](images/P5_Drawing.008.jpeg)
 
+#####Code to copy:
+
+function setup() {
+  
+}
+
+function draw() {
+  ellipse(50,50,80,80);
+}
+<br>
+
 ![Intro p5](images/P5_Drawing.010.jpeg)
 
 # Sketch Basics
