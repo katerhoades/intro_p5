@@ -166,6 +166,8 @@
 
 ![Intro p5](images/P5_Drawing.063.jpeg)
 
+# Next tutorial: [Colors](https://github.com/katerhoades/p5_colors)
+
 # Reference Resource
 ## [Full library of code references at p5js.org/reference](https://p5js.org/reference/)
 
