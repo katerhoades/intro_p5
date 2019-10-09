@@ -34,13 +34,15 @@
 
 ##### Code to copy:
 
-function setup() {<br><br>
-  
-}<br><br>
 
-function draw() {<br>
-  ellipse(50,50,80,80);<br>
-}
+    function setup() {
+    
+    }
+
+    function draw() {
+    ellipse(50,50,80,80);
+    }
+    
 <br><br>
 
 ![Intro p5](images/P5_Drawing.010.jpeg)
