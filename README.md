@@ -32,7 +32,7 @@
 
 ![Intro p5](images/P5_Drawing.008.jpeg)
 
-#####Code to copy:
+####Code to copy:
 
 function setup() {
   
